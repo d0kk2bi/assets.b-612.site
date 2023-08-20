@@ -1,1 +1,1 @@
-# asset-of-blog
+![about](/assets/about.png)
